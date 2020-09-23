@@ -4,7 +4,7 @@ convertation = int(input('What do you want to convert?: \n 1. Temperature\n 2. M
 
      
 
-# Fahrengeit -> Celsius
+# Fahrengeit -> Celsius degrees
 
 if convertation == 1:
 
