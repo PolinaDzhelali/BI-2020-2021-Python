@@ -1,4 +1,4 @@
-print('Welcome to unit converter for Russians;)')
+print('Hello. Welcome to unit converter for Russians;)')
 
 convertation = int(input('What do you want to convert?: \n 1. Temperature\n 2. Mass\n 3. Length\n '))
 
