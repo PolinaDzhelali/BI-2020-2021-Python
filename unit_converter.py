@@ -18,7 +18,7 @@ if convertation == 1:
     
      
 
-# Pounds -> Kilograms
+# Pounds (mass) -> Kilograms
 
 if convertation == 2:
 
