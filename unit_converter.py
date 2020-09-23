@@ -8,7 +8,7 @@ convertation = int(input('What do you want to convert?: \n 1. Temperature\n 2. M
 
 if convertation == 1:
 
-    temperature = int(input(' 1. Fahrengeit to Celsius?\n '))
+    temperature = int(input(' 1. Fahrengeit to Celsius degrees?\n '))
 
     if temperature == 1:
 
